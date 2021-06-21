@@ -1,3 +1,16 @@
+hr{
+    border-style: dashed;
+    color: black; 
+}
 body{
-    font-family: calibri
+    font-family: "cursive";
+    size: 20px;
+}
+div.exp1{
+    position: relative;
+    left: 100px;
+}
+div.name{
+    position: relative;
+    left: 200;
 }
